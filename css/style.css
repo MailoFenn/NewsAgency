@@ -323,6 +323,8 @@ main img{
 	text-decoration: none;
 	padding: 20px 40px;
 	margin: 0 38px;
+	position: relative;
+	top: 0;
 }
 
 .news-2{
