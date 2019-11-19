@@ -319,10 +319,13 @@ main img{
 .all-news{
 	border: 1px solid #448ccb;
 	border-radius: 30px;
+	font-size: 14px;
 	color: #448ccb;
 	text-decoration: none;
-	padding: 20px 40px;
-	margin: 0 38px;
+	padding: 17px 50px;
+	margin: 0 28px;
+	margin-top: 20px;
+	display: inline-block;
 }
 
 .news-2{
